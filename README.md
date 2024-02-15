@@ -21,6 +21,8 @@ Clone repository to local machine.
 ## Usage
 
 You can use insomnia to run the api and preform DB querys utilizing the routes created. 
+### WalkThrough Video:
+https://app.screencastify.com/v3/watch/FzbOoL3HOojwd3bRXBnl
 
 ## License
 
